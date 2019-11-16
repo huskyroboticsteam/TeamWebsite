@@ -99,7 +99,7 @@
 /* ===== HERO SECTION ===== */
 
 .hero-section {
-    background: linear-gradient( rgba(0, 0, 0, .7), rgba(0, 0, 0, .6)), url('../images/Capture.png');
+    background: linear-gradient( rgba(0, 0, 0, .7), rgba(0, 0, 0, .6)), url('./images/Capture.png');
     height: 100vh;
     background-size: cover;
     background-position: center;
