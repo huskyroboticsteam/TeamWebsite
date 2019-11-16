@@ -99,7 +99,7 @@
 /* ===== HERO SECTION ===== */
 
 .hero-section {
-    background: linear-gradient( rgba(0, 0, 0, .7), rgba(0, 0, 0, .6)), url('https://images.pexels.com/photos/240572/pexels-photo-240572.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+    background: linear-gradient( rgba(0, 0, 0, .7), rgba(0, 0, 0, .6)), url('../images/Capture.png');
     height: 100vh;
     background-size: cover;
     background-position: center;
