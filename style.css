@@ -71,11 +71,11 @@
 }
 
 .menu-item:hover {
-    color: yellow;
+    opacity: .9;
 }
 
 .nav-active {
-    color: yellow;
+    /*opacity: .5;*/
 }
 
 .dropdown-item {
